@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <strong>🚀 Project Title</strong><br/>
+  <strong>🚀 Test Proj</strong><br/>
   <em>A short tagline or description of your project</em>
 </p>
 
